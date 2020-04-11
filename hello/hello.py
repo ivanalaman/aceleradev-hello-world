@@ -5,6 +5,7 @@ def say_hello_python():
 
 def main():
     print("hello, world!!!!!")
+    print("hello, git!")
 
     say_hello_python()
 
